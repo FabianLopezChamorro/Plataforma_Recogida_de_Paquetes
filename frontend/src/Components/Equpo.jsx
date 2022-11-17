@@ -5,15 +5,15 @@ function Equipo() {
         <section className="page-section bg-light" id="team">
             <div className="container">
                 <div className="text-center">
-                    <h2 className="section-heading text-uppercase">Our Amazing Team</h2>
+                    <h2 className="section-heading text-uppercase">Nuestro Equipo</h2>
                     <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
                 <div className="row">
                     <div className="col-lg-4">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="..." />
-                            <h4>Parveen Anand</h4>
-                            <p className="text-muted">Lead Designer</p>
+                            <img className="mx-auto rounded-circle" src="assets/img/team/user-image.png" alt="..." />
+                            <h4>Fabian Lopez Chamorro</h4>
+                            <p className="text-muted">Full Stack Developer</p>
                             <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Twitter Profile"><i className="fab fa-twitter"></i></a>
                             <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Facebook Profile"><i className="fab fa-facebook-f"></i></a>
                             <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><i className="fab fa-linkedin-in"></i></a>
@@ -21,9 +21,9 @@ function Equipo() {
                     </div>
                     <div className="col-lg-4">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="..." />
-                            <h4>Diana Petersen</h4>
-                            <p className="text-muted">Lead Marketer</p>
+                            <img className="mx-auto rounded-circle" src="assets/img/team/user-image.png" alt="..." />
+                            <h4>Laura Quintero Santiago</h4>
+                            <p className="text-muted">Front End Developer</p>
                             <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Twitter Profile"><i className="fab fa-twitter"></i></a>
                             <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Facebook Profile"><i className="fab fa-facebook-f"></i></a>
                             <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen LinkedIn Profile"><i className="fab fa-linkedin-in"></i></a>
@@ -31,9 +31,29 @@ function Equipo() {
                     </div>
                     <div className="col-lg-4">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
-                            <h4>Larry Parker</h4>
-                            <p className="text-muted">Lead Developer</p>
+                            <img className="mx-auto rounded-circle" src="assets/img/team/user-image.png" alt="..." />
+                            <h4>Miguel Perez Mercado</h4>
+                            <p className="text-muted">Back End Developer</p>
+                            <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i className="fab fa-twitter"></i></a>
+                            <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><i className="fab fa-facebook-f"></i></a>
+                            <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><i className="fab fa-linkedin-in"></i></a>
+                        </div>
+                    </div>
+                    <div className="col-lg-4">
+                        <div className="team-member">
+                            <img className="mx-auto rounded-circle" src="assets/img/team/user-image.png" alt="..." />
+                            <h4>Sonia Cano Guerrero</h4>
+                            <p className="text-muted">Front End Developer</p>
+                            <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i className="fab fa-twitter"></i></a>
+                            <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><i className="fab fa-facebook-f"></i></a>
+                            <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><i className="fab fa-linkedin-in"></i></a>
+                        </div>
+                    </div>
+                    <div className="col-lg-4">
+                        <div className="team-member">
+                            <img className="mx-auto rounded-circle" src="assets/img/team/user-image.png" alt="..." />
+                            <h4>William Rios Valencia</h4>
+                            <p className="text-muted">Full Stack Developer</p>
                             <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i className="fab fa-twitter"></i></a>
                             <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><i className="fab fa-facebook-f"></i></a>
                             <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><i className="fab fa-linkedin-in"></i></a>
