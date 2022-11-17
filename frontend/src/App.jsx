@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
+
 import NavBar from './Components/NavBar'
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
 
   return (
     <div >
-      <h1>ToDO</h1>
+      <NavBar />
+      <h1>ToDo</h1>
     </div>
   )
 }
