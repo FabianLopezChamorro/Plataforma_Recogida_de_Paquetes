@@ -12,8 +12,8 @@ function NavBar() {
                     </button>
                     <div className="collapse navbar-collapse" id="navbarResponsive">
                         <ul className="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                            <li className="nav-item"><a className="nav-link" href="#services">Rastrear</a></li>
-                            <li className="nav-item"><a className="nav-link" href="#portfolio">Cotizar</a></li>
+                            <li className="nav-item"><a className="nav-link" href="#recoger">Recoger</a></li>
+                            <li className="nav-item"><a className="nav-link" href="#rastrear">Rastrear</a></li>
                             <li className="nav-item"><a className="nav-link" href="#about">Nosotros</a></li>
                             <li className="nav-item"><a className="nav-link" href="#team">Equipo</a></li>
                             <li className="nav-item"><a className="nav-link" href="#contact">Contacto</a></li>
