@@ -7,6 +7,7 @@ import Header from './Components/Header'
 import Recoger from './Components/Recoger'
 import Equipo from './Components/Equpo'
 import Contacto from './Components/Contacto'
+import Nosotros from './Components/Nosotros'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,6 +17,7 @@ function App() {
       <NavBar />
       <Header />
       <Recoger />
+      <Nosotros />
       <Equipo />
       <Contacto />
     </div>
