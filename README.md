@@ -1,6 +1,15 @@
-# Plataforma_Recogida_de_Paquetes
+# Plataforma Recogida de Paquetes
 
 ## Run local
 
-Install...
+# Instalar dependencias
 
+npm init
+
+npm install mongoose express cors body-parser
+
+# Start
+
+mongod
+
+nodemon
